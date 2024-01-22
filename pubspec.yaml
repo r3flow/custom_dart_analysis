@@ -1,4 +1,4 @@
-name: dart_analysis
+name: custom_dart_analysis
 version: 1.0.0
 description: Fork of the VGV rules
 topics: [lints, analyzer, analysis]
